@@ -4,9 +4,8 @@ This repository showcases my work as a data analyst. Here you'll find a Dashboar
 
 ## Projects:
 - Sales Trend Analysis 
-- Demand Forecasting 
+- Inventory Management  
 - Customer Segmentation
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/459c23f0-b941-4b69-9b5a-652761e53ee1" />
 
 
